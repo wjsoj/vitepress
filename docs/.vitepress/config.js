@@ -3,8 +3,8 @@ export default {
     description: 'Just playing around.',
     themeConfig: {
         footer: {
-            message: 'Powered By <a href="https://vitepress.vuejs.org/">VitePress</a> Released under the MIT License.',
-            copyright: 'Copyright © 2019-present WJS'
+            message: 'Powered By <a href="https://vitepress.vuejs.org/">VitePress</a><br>Released under the MIT License.',
+            copyright: 'Copyright © 2022-Present WJS'
         },
         socialLinks: [
             { icon: 'github', link: 'https://github.com/wjsoj' }
