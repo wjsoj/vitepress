@@ -6,8 +6,8 @@ hero:
   text: We build, we develop, we change the world.
   tagline: 这里是我目前所有公开项目的导航
   image:
-    src: /illustration.png
-    alt: 图片是从MkDocs上嫖的，没有什么特殊意义
+    src: 
+    alt:
   actions:
     - theme: brand
       text: Get Started
