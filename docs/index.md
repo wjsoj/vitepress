@@ -29,11 +29,6 @@ features:
 ---
 
 <style>
-    @media screen and (min-width: 960px) {
-     .image-src {
-    max-width: 320px;
-}
-	}
     :root {
       	--vp-home-hero-name-color: transparent;
       	--vp-home-hero-name-background: -webkit-linear-gradient(180deg, #00DAFF, #C900FF);
