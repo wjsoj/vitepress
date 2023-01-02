@@ -5,6 +5,9 @@ hero:
   name: WJS的自留地
   text: We build, we develop, we change the world.
   tagline: 这里是我目前所有公开项目的导航
+  image:
+    src: /illustration.png
+    alt: 图片是从MkDocs上嫖的，没有什么特殊意义
   actions:
     - theme: brand
       text: Get Started
@@ -26,8 +29,16 @@ features:
 ---
 
 <style>
+    @media screen and (min-width: 960px) {
+     .image-src {
+    max-width: 320px;
+}
+	}
     :root {
-      --vp-home-hero-name-color: transparent;
-      --vp-home-hero-name-background: -webkit-linear-gradient(180deg, #00DAFF, #C900FF);
+      	--vp-home-hero-name-color: transparent;
+      	--vp-home-hero-name-background: -webkit-linear-gradient(180deg, #00DAFF, #C900FF);
+      	--vp-home-hero-image-background-image: linear-gradient( 90deg, #00DAFF, #C900FF);
+  		--vp-home-hero-image-filter: blur(250px);
+  		--vp-button-brand-bg: #00DAFF;
     }
 </style>

@@ -10,6 +10,7 @@ export default {
             { icon: 'github', link: 'https://github.com/wjsoj' }
         ],
         nav: [
+            { text: 'Home', link: '/index' },
             { text: 'Wiki', link: 'https://wiki.wjsphy.tk' },
             {
                 text: 'Project',
