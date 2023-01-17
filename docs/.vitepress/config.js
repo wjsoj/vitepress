@@ -11,12 +11,12 @@ export default {
         ],
         nav: [
             { text: 'Home', link: '/index' },
-            { text: 'Wiki', link: 'https://wiki.wjsphy.tk' },
+            { text: 'Wiki', link: 'https://wiki.wjsphy.top' },
             {
                 text: 'Project',
                 items: [
-                    { text: 'Anonymous Question Box', link: 'https://box.wjsphy.tk' },
-                    { text: 'Personal Blog', link: 'https://blog.wjsphy.tk' }
+                    { text: 'Anonymous Question Box', link: 'https://box.wjsphy.top' },
+                    { text: 'Personal Blog', link: 'https://blog.wjsphy.top' }
                 ]
             },
             { text: 'About Me', link: '/about' }
