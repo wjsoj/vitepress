@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: https://wjsphy.tk
+      link: /index
     - theme: alt
       text: View my GitHub
       link: https://github.com/wjsoj
@@ -26,6 +26,15 @@ features:
   - icon: 🛠️
     title: 个人博客（基于Hexo Matery主题）
     details: 雏形初中的时候就有了，记录一些乱七八糟的经验感想，包括平时做的小项目，甚至还有时评和电影读后感（部分文章在我现在看来很丢人）...
+  - icon: ⚡️
+    title: PKU-Hole-Flet
+    details: 北大树洞非官方客户端，完整支持收藏、回复、搜索、成绩查询等功能，仅作Flet框架练手使用，不具备实用价值
+  - icon: 🖖
+    title: Moment-Likes-Collecting-Helper
+    details: 朋友圈集赞小助手，基于python
+  - icon: 🛠️
+    title: More Projects Coming Soon
+    details: Coming Soon...
 ---
 
 <style>
